@@ -1,4 +1,4 @@
-## Hi, Hello, Hey There, Sup
+## Hi, Hello, Hey There
 
 I'm Rhys (Lightning), I write mostly in Go.
 
